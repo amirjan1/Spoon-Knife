@@ -17,8 +17,6 @@
 </p>
 <p>Amirjan make a clone using command</p>
 <p>git clone &lt;url-of-remote-computer&gt; </p>
-<p>find the remote address using:</p>
-<p>git remote -v</p>
 
 </body>
 </html>
